@@ -2,7 +2,7 @@
 ## :computer:Authors
 This dataset is authored by iVC Lab in USTC.
 ### :house_with_garden:Our homepage
-[iVC Lab](ustc-ivclab.github.io)
+[iVC Lab](https://ustc-ivclab.github.io/)
 ### :e-mail:Contact us
 liaojq@mail.ustc.edu.cn / zhuoyuanli@mail.ustc.edu.cn
 ## :arrow_down:Download
